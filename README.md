@@ -9,6 +9,6 @@ introducing git to new members of the programming team of 6045
 
 name 1: owen!
 name 2:
-name 3: 
+name 3: Dominic
 name 4:
 name 5:
