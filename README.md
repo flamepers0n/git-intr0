@@ -8,7 +8,9 @@ introducing git to new members of the programming team of 6045
 # enter your names!
 
 name 1: owen!
-name 2:
+name 2: Henry   
 name 3: Dominic
-name 4:
-name 5:
+name 4: Quinn
+name 5: burg!
+
+
